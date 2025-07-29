@@ -1,0 +1,22 @@
+# 📊 Sales Performance Dashboard – Power BI
+
+This project analyzes sales data from a Superstore dataset using Power BI.
+
+## 🔹 Key Features
+- KPI Cards: Total Sales, Profit, Discount, Orders
+- Sales Trend by Month
+- Top Regions, States, and Customers
+- Profit vs. Discount with Trend Line
+- Business Recommendations
+
+## 🔹 Dataset
+Public sample data from Superstore (available on Kaggle/Data World).
+
+## 🔹 Tools Used
+- Power BI
+- DAX
+- Data Cleaning & Modeling
+
+## 🔹 Final Report
+See the attached PDF: `Sales Project. S.88.pdf`
+
